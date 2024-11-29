@@ -1,4 +1,5 @@
 # Analysis of Candidate Vote Distribution in Assam Elections (1951-2021)
+![BOX PLOT(ALTAIR)](https://github.com/user-attachments/assets/5f230b43-013d-4b2c-9b4e-fa1a516b595f)
 
 This repository presents a detailed analysis of vote distributions in Assam's elections from 1951 to 2021. It highlights trends, variability, and significant outliers, using advanced data visualization techniques and robust data cleaning strategies.
 
@@ -44,13 +45,16 @@ A robust data-cleaning process ensures the dataset is consistent and ready for a
 The analysis includes the following visualizations:
 
 1. **Box Plot with Outliers (Matplotlib)**: Highlights variability and outliers in vote counts.  
-   ![Box Plot](path/to/box_plot_outliers_matplotlib.png)
+   ![BOX PLOT WITH OUTLIERS (MATPLOTLIB)](https://github.com/user-attachments/assets/7c18d0ff-dd42-469f-88ee-81a278a762b5)
+
 
 2. **Violin Plot (Matplotlib)**: Depicts the density and shape of vote distributions.  
-   ![Violin Plot](path/to/violin_plot_matplotlib.png)
+   ![VIOLIN PLOT (MATPLOTLIB)](https://github.com/user-attachments/assets/ca153975-9405-453f-8246-ba08cea4aaaa)
+
 
 3. **Box Plot Highlighting Outliers (Altair)**: Focuses on outliers with an interactive, modern approach.  
-   ![Altair Box Plot](path/to/box_plot_altair.png)
+   ![BOX PLOT(ALTAIR)](https://github.com/user-attachments/assets/1329f7dd-da8c-4387-8a48-9531019442b7)
+
 
 ---
 
